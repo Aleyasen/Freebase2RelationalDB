@@ -1,0 +1,20 @@
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/cvg.computer_videogame.rdf]
+lines#:40082
+file read done!
+line#:0
+updates#:0
+Error in Parsing Line###
+extractMainTable done! [/srv/data/projects/dataset/Freebase/RDF/cvg.computer_videogame.rdf]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/cvg.computer_videogame.cvg_genre.rdf]
+PHP Error[2]: file_get_contents(/srv/data/projects/dataset/Freebase/RDF/cvg.computer_videogame.cvg_genre.rdf): failed to open stream: No such file or directory
+    in file /srv/www/html/freebase/protected/commands/FECommand.php at line 291
+#0 /srv/www/html/freebase/protected/commands/FECommand.php(291): file_get_contents()
+#1 /srv/www/html/freebase/protected/commands/FECommand.php(126): extractMainTable()
+#2 unknown(0): FECommand->actionRun()
+#3 /srv/www/html/yii/framework/console/CConsoleCommand.php(173): ReflectionMethod->invokeArgs()
+#4 /srv/www/html/yii/framework/console/CConsoleCommandRunner.php(68): FECommand->run()
+#5 /srv/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /srv/www/html/yii/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#7 /srv/www/html/yii/framework/yiic.php(34): CConsoleApplication->run()
+#8 /srv/www/html/freebase/protected/yiic.php(7): require_once()
+#9 /srv/www/html/freebase/protected/yiic(4): require_once()

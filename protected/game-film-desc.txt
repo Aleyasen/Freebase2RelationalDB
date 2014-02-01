@@ -1,0 +1,151 @@
+initial cvg.computer_videogame
+size:40081
+cvg.computer_videogame initialization finished.
+initial film.film
+size:209816
+film.film initialization finished.
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_aa]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:2913
+line#:200000
+insert#:5795
+line#:300000
+insert#:8934
+line#:400000
+insert#:11823
+line#:500000
+insert#:14728
+line#:600000
+insert#:17556
+line#:700000
+insert#:20575
+line#:800000
+insert#:23797
+line#:900000
+insert#:26601
+line#:1000000
+insert#:29524
+line#:1100000
+insert#:32316
+line#:1200000
+insert#:35237
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_aa][insert# 35237]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_ab]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:2993
+line#:200000
+insert#:5812
+line#:300000
+insert#:8761
+line#:400000
+insert#:11572
+line#:500000
+insert#:14565
+line#:600000
+insert#:17534
+line#:700000
+insert#:20380
+line#:800000
+insert#:23422
+line#:900000
+insert#:26187
+line#:1000000
+insert#:29227
+line#:1100000
+insert#:32291
+line#:1200000
+insert#:35121
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_ab][insert# 35121]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_ac]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:3042
+line#:200000
+insert#:5829
+line#:300000
+insert#:8782
+line#:400000
+insert#:11643
+line#:500000
+insert#:14515
+line#:600000
+insert#:17555
+line#:700000
+insert#:20377
+line#:800000
+insert#:23317
+line#:900000
+insert#:26276
+line#:1000000
+insert#:29193
+line#:1100000
+insert#:32285
+line#:1200000
+insert#:35131
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_ac][insert# 35131]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_ad]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:3095
+line#:200000
+insert#:5936
+line#:300000
+insert#:8911
+line#:400000
+insert#:11742
+line#:500000
+insert#:14668
+line#:600000
+insert#:17671
+line#:700000
+insert#:20476
+line#:800000
+insert#:23522
+line#:900000
+insert#:26432
+line#:1000000
+insert#:29282
+line#:1100000
+insert#:32296
+line#:1200000
+insert#:35080
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_ad][insert# 35080]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_ae]
+lines#:770962
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:3079
+line#:200000
+insert#:6031
+line#:300000
+insert#:8992
+line#:400000
+insert#:12009
+line#:500000
+insert#:14909
+line#:600000
+insert#:17955
+line#:700000
+insert#:20797
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc-splits/desc_split_ae][insert# 22973]

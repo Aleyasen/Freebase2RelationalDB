@@ -1,0 +1,117 @@
+initial people.person
+size:2751593
+people.person initialization finished.
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc_split_ab]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:28472
+line#:200000
+insert#:57651
+line#:300000
+insert#:86756
+line#:400000
+insert#:115471
+line#:500000
+insert#:144645
+line#:600000
+insert#:173141
+line#:700000
+insert#:202373
+line#:800000
+insert#:230893
+line#:900000
+insert#:259322
+line#:1000000
+insert#:288735
+line#:1100000
+insert#:317261
+line#:1200000
+insert#:346178
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc_split_ab][insert# 346178]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc_split_ac]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:28720
+line#:200000
+insert#:57504
+line#:300000
+insert#:86310
+line#:400000
+insert#:114691
+line#:500000
+insert#:144032
+line#:600000
+insert#:172745
+line#:700000
+insert#:201707
+line#:800000
+insert#:230571
+line#:900000
+insert#:259185
+line#:1000000
+insert#:288458
+line#:1100000
+insert#:316844
+line#:1200000
+insert#:345750
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc_split_ac][insert# 345750]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc_split_ad]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:28760
+line#:200000
+insert#:57441
+line#:300000
+insert#:86671
+line#:400000
+insert#:115058
+line#:500000
+insert#:144177
+line#:600000
+insert#:172878
+line#:700000
+insert#:201817
+line#:800000
+insert#:230821
+line#:900000
+insert#:259292
+line#:1000000
+insert#:288769
+line#:1100000
+insert#:317300
+line#:1200000
+insert#:346338
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc_split_ad][insert# 346338]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc_split_ae]
+lines#:770962
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:29095
+line#:200000
+insert#:57767
+line#:300000
+insert#:87137
+line#:400000
+insert#:116042
+line#:500000
+insert#:144943
+line#:600000
+insert#:173734
+line#:700000
+insert#:202224
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc_split_ae][insert# 223129]

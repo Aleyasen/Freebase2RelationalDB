@@ -1,0 +1,16 @@
+initial people.person
+size:2751593
+people.person initialization finished.
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/xac]
+PHP Error[2]: file_get_contents(/srv/data/projects/dataset/Freebase/RDF/xac): failed to open stream: No such file or directory
+    in file /srv/www/html/freebase/protected/commands/FECommand.php at line 201
+#0 /srv/www/html/freebase/protected/commands/FECommand.php(201): file_get_contents()
+#1 /srv/www/html/freebase/protected/commands/FECommand.php(108): setNames()
+#2 unknown(0): FECommand->actionUpdate()
+#3 /srv/www/html/yii/framework/console/CConsoleCommand.php(173): ReflectionMethod->invokeArgs()
+#4 /srv/www/html/yii/framework/console/CConsoleCommandRunner.php(68): FECommand->run()
+#5 /srv/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /srv/www/html/yii/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#7 /srv/www/html/yii/framework/yiic.php(34): CConsoleApplication->run()
+#8 /srv/www/html/freebase/protected/yiic.php(7): require_once()
+#9 /srv/www/html/freebase/protected/yiic(4): require_once()

@@ -1,0 +1,117 @@
+initial tv.tv_program
+size:52027
+tv.tv_program initialization finished.
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc_split_ab]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:741
+line#:200000
+insert#:1415
+line#:300000
+insert#:2083
+line#:400000
+insert#:2789
+line#:500000
+insert#:3456
+line#:600000
+insert#:4124
+line#:700000
+insert#:4775
+line#:800000
+insert#:5452
+line#:900000
+insert#:6085
+line#:1000000
+insert#:6749
+line#:1100000
+insert#:7422
+line#:1200000
+insert#:8077
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc_split_ab][insert# 8077]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc_split_ac]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:674
+line#:200000
+insert#:1313
+line#:300000
+insert#:1987
+line#:400000
+insert#:2671
+line#:500000
+insert#:3328
+line#:600000
+insert#:4023
+line#:700000
+insert#:4686
+line#:800000
+insert#:5319
+line#:900000
+insert#:6019
+line#:1000000
+insert#:6651
+line#:1100000
+insert#:7369
+line#:1200000
+insert#:8024
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc_split_ac][insert# 8024]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc_split_ad]
+lines#:1200001
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:694
+line#:200000
+insert#:1374
+line#:300000
+insert#:1992
+line#:400000
+insert#:2701
+line#:500000
+insert#:3334
+line#:600000
+insert#:4031
+line#:700000
+insert#:4703
+line#:800000
+insert#:5387
+line#:900000
+insert#:6081
+line#:1000000
+insert#:6729
+line#:1100000
+insert#:7397
+line#:1200000
+insert#:8030
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc_split_ad][insert# 8030]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/desc_split_ae]
+lines#:770962
+file read done!
+line#:0
+insert#:0
+line#:100000
+insert#:674
+line#:200000
+insert#:1341
+line#:300000
+insert#:1994
+line#:400000
+insert#:2667
+line#:500000
+insert#:3337
+line#:600000
+insert#:4034
+line#:700000
+insert#:4715
+Error in Parsing Line###
+updating done! [/srv/data/projects/dataset/Freebase/RDF/desc_split_ae][insert# 5167]

@@ -1,0 +1,1 @@
+cat boogie.txt | egrep 'type\.object\.name.*@en|common\.topic\.description.*@en|people'

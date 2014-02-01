@@ -1,0 +1,20 @@
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/film.actor.rdf]
+lines#:343436
+file read done!
+line#:0
+updates#:0
+line#:100000
+updates#:0
+line#:200000
+updates#:0
+line#:300000
+updates#:0
+Error in Parsing Line###
+extractMainTable done! [/srv/data/projects/dataset/Freebase/RDF/film.actor.rdf]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/celebrities.celebrity.rdf]
+lines#:2297
+file read done!
+line#:0
+updates#:0
+Error in Parsing Line###
+extractMainTable done! [/srv/data/projects/dataset/Freebase/RDF/celebrities.celebrity.rdf]

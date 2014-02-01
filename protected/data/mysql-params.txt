@@ -1,0 +1,7 @@
+mysqld_safe --innodb_buffer_pool_size=16000000000
+mysqld_safe --innodb_log_file_size=4000000000
+mysqld_safe --innodb_log_buffer_size=100000000
+mysqld_safe --innodb_flush_log_at_trx_commit=0
+mysqld_safe --thread_cache_size=32
+ 
+ 

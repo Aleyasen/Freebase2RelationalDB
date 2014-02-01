@@ -1,0 +1,27 @@
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/theater.play.rdf]
+lines#:6836
+file read done!
+line#:0
+updates#:0
+Error in Parsing Line###
+extractMainTable done! [/srv/data/projects/dataset/Freebase/RDF/theater.play.rdf]
+start reading file... [/srv/data/projects/dataset/Freebase/RDF/visual_art.artwork.rdf]
+lines#:33383
+file read done!
+line#:0
+updates#:0
+PHP Error[2]: include(artwork.php): failed to open stream: No such file or directory
+    in file /srv/www/html/yii/framework/YiiBase.php at line 423
+#0 /srv/www/html/yii/framework/YiiBase.php(423): autoload()
+#1 unknown(0): autoload()
+#2 /srv/www/html/freebase/protected/commands/FECommand.php(401): spl_autoload_call()
+#3 /srv/www/html/freebase/protected/commands/FECommand.php(323): insertMainTuple()
+#4 /srv/www/html/freebase/protected/commands/FECommand.php(138): extractMainTable()
+#5 unknown(0): FECommand->actionRun()
+#6 /srv/www/html/yii/framework/console/CConsoleCommand.php(173): ReflectionMethod->invokeArgs()
+#7 /srv/www/html/yii/framework/console/CConsoleCommandRunner.php(68): FECommand->run()
+#8 /srv/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#9 /srv/www/html/yii/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#10 /srv/www/html/yii/framework/yiic.php(34): CConsoleApplication->run()
+#11 /srv/www/html/freebase/protected/yiic.php(7): require_once()
+#12 /srv/www/html/freebase/protected/yiic(4): require_once()
